@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Eva should to see this exercise.
+=======
+this si my second file for git bash exercise!
+>>>>>>> 91fa1845d99fd95e36d937aa057f329bf7d4fc79
